@@ -3,6 +3,10 @@ var ao=[]
 var j=[]
 var a,b,c
 
+//**Se na prompt, nenhum texto for inserido, aparecerá a mensagem, 
+// caso contrário, o ítem digitado será inserido à lista, 
+// o DO será repetido quando o A for diferente de null 
+// push adiciona o ítem ao velor/lista*/
 do{
     a=prompt("Insira o(s) alimento(s) do café da manhã: ")
      
